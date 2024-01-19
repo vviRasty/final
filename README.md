@@ -8,4 +8,4 @@
 
 システム名　：日記システム
 
-URL　：
+URL　：http://aso2201148.boo.jp/kozinkaihatu/book.php
